@@ -68,7 +68,7 @@ function App() {
   }
 
   return (
-    <main className="bg-white max-w-4xl mx-auto py-24 px-48">
+    <main className="bg-white max-w-4xl mx-auto md:py-24 md:px-48 px-5 py-10">
       <section id="form">
         <form onSubmit={handleSubmit}>
           <div>

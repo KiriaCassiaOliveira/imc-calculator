@@ -1,6 +1,6 @@
 function ReferenceTable(){
     return (
-        <table className="mx-auto text-neutral-600 text-left">
+        <table className="mx-auto text-neutral-600 text-left md:text-base text-xs">
         <thead className="bg-zinc-100 text-rose-400 text-xl">
           <tr>
             <th className="px-6 py-2">Imc</th>
