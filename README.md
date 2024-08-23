@@ -16,5 +16,5 @@ Este projeto é uma aplicação React para calcular o Índice de Massa Corporal 
    git clone https://github.com/KiriaCassiaOliveira/imc-calculator.git
    cd calculadora-imc-codante
 
-npm install
-npm run dev
+2. npm install
+3.npm run dev
